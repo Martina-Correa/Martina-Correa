@@ -91,19 +91,7 @@ Disfruto aprender nuevas tecnologías, crear soluciones útiles y transformar da
 
 </div>
 
----
 
-# 🚀 Proyectos Destacados
-
-✨ Algunos proyectos que encontrarás en mi perfil:
-
-- 📊 Dashboards interactivos con Power BI.
-- 🐍 Análisis y visualización de datos con Python.
-- 📱 Aplicaciones móviles desarrolladas con React Native.
-- 🌐 Aplicaciones web utilizando Django y Laravel.
-- 💾 Gestión y modelamiento de bases de datos SQL.
-
----
 
 # 📫 Contáctame
 
