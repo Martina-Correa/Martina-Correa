@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0077FF,100:6A5ACD&section=header"/>
 </div>
 
 <h1 align="center">
@@ -21,10 +21,10 @@ Disfruto aprender nuevas tecnologías, crear soluciones útiles y transformar da
 
 - 🎓 Egresada de Ingeniería en Informática.
 - 📊 Apasionada por el análisis de datos, Business Intelligence y el desarrollo de software.
-- 🐍 Experiencia desarrollando aplicaciones con **Python, Django y React Native**.
-- 📈 Disfruto crear dashboards, automatizar procesos y obtener información valiosa a partir de los datos mediante **SQL, Power BI y Excel**.
-- 🌱 Actualmente fortaleciendo mis conocimientos en **Machine Learning** y **Ciencia de Datos**.
-- 💬 Pregúntame sobre **Python, Django, React Native, SQL, Power BI, Desarrollo Web o Git**.
+- 🐍 Experiencia desarrollando aplicaciones con Python, Django y React Native.
+- 📈 Disfruto crear dashboards, automatizar procesos y obtener información valiosa a partir de los datos mediante SQL, Power BI y Excel.
+- 🌱 Actualmente fortaleciendo mis conocimientos en Machine Learning** y Ciencia de Datos.
+- 💬 Pregúntame sobre Python, Django, React Native, SQL, Power BI, Desarrollo Web o Git.
 
 ---
 
