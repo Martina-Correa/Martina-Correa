@@ -109,9 +109,6 @@ Disfruto aprender nuevas tecnologías, crear soluciones útiles y transformar da
 </div>
 
 ---
-
-<div align="center">
-
 # 🚀 Proyectos Destacados
 
 ✨ Algunos proyectos que encontrarás en mi perfil:
@@ -121,6 +118,9 @@ Disfruto aprender nuevas tecnologías, crear soluciones útiles y transformar da
 - 📱 Desarrollo de aplicaciones móviles.
 - 🌐 Desarrollo de aplicaciones web.
 - ⚙️ Implementación de soluciones tecnológicas orientadas a mejorar procesos.
+
+<div align="center">
+
 
 ### ✨ "Siempre aprendiendo, siempre creando."
 
