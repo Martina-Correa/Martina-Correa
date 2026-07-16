@@ -93,6 +93,7 @@ Disfruto aprender nuevas tecnologías, crear soluciones útiles y transformar da
 
 
 
+
 # 📫 Contáctame
 
 <div align="center">
@@ -110,6 +111,16 @@ Disfruto aprender nuevas tecnologías, crear soluciones útiles y transformar da
 ---
 
 <div align="center">
+
+# 🚀 Proyectos Destacados
+
+✨ Algunos proyectos que encontrarás en mi perfil:
+
+- 📊 Creación de dashboards interactivos y reportería con Power BI.
+- 🐍 Análisis, limpieza y visualización de datos.
+- 📱 Desarrollo de aplicaciones móviles.
+- 🌐 Desarrollo de aplicaciones web.
+- ⚙️ Implementación de soluciones tecnológicas orientadas a mejorar procesos.
 
 ### ✨ "Siempre aprendiendo, siempre creando."
 
