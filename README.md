@@ -97,8 +97,9 @@ Disfruto aprender nuevas tecnologías, crear soluciones útiles y transformar da
 # 📫 Contáctame
 
 <div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martinacorreasepulveda84@gmail.com)
+<a href="mailto:martinacorreasepulveda84@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
 <a href="https://www.linkedin.com/in/martina-correa-sep%C3%BAlveda-bb1719299/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
